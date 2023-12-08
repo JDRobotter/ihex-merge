@@ -1,10 +1,11 @@
 [package]
 name = "ihex-merge"
 authors = ["JD Brossillon <jdam.github@gmail.com>"]
+description = "A tool based on the ihex crate to merge ihex (intel HEX) object files into one"
 repository = "https://github.com/JDRobotter/ihex-merge/"
 readme = "README.md"
 keywords = ["ihex", "intel", "hex", "merge", "cli", "tool"]
-
+license = "BSD-3-clause"
 version = "0.1.0"
 edition = "2021"
 
